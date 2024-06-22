@@ -1,0 +1,11 @@
+.menu-bg-wrap a img {
+    max-width: 60px;
+    height: auto;
+}
+
+@media (max-width:425px) {
+    .text {
+        display: none;
+    }
+
+}
